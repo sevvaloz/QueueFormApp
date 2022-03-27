@@ -1,1 +1,1 @@
-I did form application with C# that you can create dynamic queue.
+I did a windows form application that you can create dynamic queue.
